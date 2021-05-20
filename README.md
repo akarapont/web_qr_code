@@ -1,1 +1,0 @@
-# web_qr_code
